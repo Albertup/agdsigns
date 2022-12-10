@@ -1,0 +1,21 @@
+export const en = {
+    inspire: "Inspire, Create, Believe",
+    menu: "Menu",
+    aboutTitle: "About Us",
+    aboutText01: "We're design studio based in Madrid. We create unique designs that will blow your mind. We also design your Brand Image. Design is an ART that can not be grasped by everyone.",
+    aboutText02: "We are very dedicated to making our products. We offer unique and creative products to a wide range of people. We have a variety of styles, but for most people, all of the options are in the box. We specialize in making things that make you happy.",
+    aboutText03: "We strive to build on our vision. As a design label, we do our best to create amazing experiences for all people.  We are always looking to make something diferent that is easy for everyone.",
+    galleryTitle: "Gallery",
+    galleryText01: "This brand new designs are currently being developed in Spain. We develop our ideas by inspiring us in the best quality conceptual ART, including the use of some of the best designs to make our products.  All products are made using the best designs, from the finest concepts to the finest inpirations.",
+    galleryText02: "We have lots of different develop options like responsive websites, brand image and logos. Not only design but we also provide a unique image to your brand. It is great for us to carry our new design concept all around the globe and make your brand look different.",
+    banner01: "Everything is designed.",
+    banner02: "Few things are designed well.",
+    banner03: "Styles come and go.",
+    banner04: "Good design is a language,",
+    banner05: "not a style.",
+    newsTitle: "News",
+    newsText01: "This is the news and stylesection available from around the world. It is a good way to find inspiration for your brand. It offers a variety of cool trends and styles, while also being an opportunity to find new ideas.",
+    newsText02: "The first collection also includes avant-garde design and inspirational models for your brand.",
+    newsText03: "Give them a try and discover new trends.",
+    
+}

@@ -1,0 +1,21 @@
+export const es = {
+    inspire: "Inspirar, Crear, Creer",
+    menu: "Menú",
+    aboutTitle: "Conócenos",
+    aboutText01: "Creamos diseños únicos que te dejarán boquiabierto. También diseñamos tu Imagen de Marca. El diseño es un ARTE que no puede ser captado por todos.",
+    aboutText02: "Estamos muy dedicados a hacer nuestros productos. Ofrecemos productos únicos y creativos a una amplia gama de personas. Tenemos una variedad de estilos, pero para la mayoría de las personas, todas las opciones están en la caja. Nos especializamos en hacer cosas que te hagan feliz.",
+    aboutText03: "Nos esforzamos por construir sobre nuestra visión. Como marca de diseño, hacemos todo lo posible para crear experiencias increíbles para todas las personas. Siempre estamos buscando hacer algo diferente que sea fácil para todos.",
+    galleryTitle: "Galería",
+    galleryText01: "Estos nuevos diseños se están desarrollando actualmente en España. Desarrollamos nuestras ideas inspirándonos en el ARTE conceptual de la mejor calidad, incluido el uso de algunos de los mejores diseños para fabricar nuestros productos. Todos los productos están hechos con los mejores diseños, desde los mejores conceptos hasta las mejores inspiraciones.",
+    galleryText02: "Tenemos muchas opciones de desarrollo diferentes, como sitios web receptivos, imagen de marca y logotipos. No solo diseñamos sino que también aportamos una imagen única a tu marca. Es genial para nosotros llevar nuestro nuevo concepto de diseño a todo el mundo y hacer que su marca se vea diferente.",
+    banner01: "Todo está diseñado.",
+    banner02: "Pocas cosas están bien diseñadas.",
+    banner03: "Los estilos van y vienen.",
+    banner04: "El buen diseño es un lenguaje,",
+    banner05: "no un estilo.",
+    newsTitle: "Noticias",
+    newsText01: "Esta es la sección de noticias y estilo disponible en todo el mundo. Es una buena forma de encontrar inspiración para tu marca. Ofrece una variedad de tendencias y estilos geniales, al mismo tiempo que es una oportunidad para encontrar nuevas ideas.",
+    newsText02: "La primera colección también incluye diseño de vanguardia y modelos inspiradores para su marca.",
+    newsText03: "Pruébalos y descubre nuevas tendencias.",
+    
+}
